@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://HaiqaAhtsham.github.io/TechOnboard",
+    "build-gh": "parcel build --public-url 'https://HaiqaAhtsham.github.io/TechOnboard'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
